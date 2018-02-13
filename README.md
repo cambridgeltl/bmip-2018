@@ -1,4 +1,4 @@
-# Resources for BMIP 2017 practical
+# Resources for BMIP 2018 practical
 
 Contents of this repository:
 
